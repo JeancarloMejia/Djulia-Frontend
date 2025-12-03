@@ -13,7 +13,7 @@ import Locales from "./pages/Locales";
 import Contactanos from "./pages/Contactanos";
 import LogIN from "./pages/LogIn";
 import Register from "./pages/Register";
-import Privacidad from "./pages/Privacidad";
+import Privacidad from "./pages/privacidad";
 import Reclamaciones from "./pages/Reclamaciones";
 import Terminos from "./pages/Terminos";
 import LogInAdmin from "./pages/LogInAdmin";
